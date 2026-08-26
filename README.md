@@ -1,0 +1,1 @@
+# js-quote-of-the-day
